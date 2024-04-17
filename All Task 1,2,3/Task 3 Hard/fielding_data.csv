@@ -1,241 +1,241 @@
-Match No.,Innings,Team,Player Name,Ballcount,Position,Short Description,Pick,Throw,Runs,Overcount,Venue
-1,1,RCB,Virat Kohli,1,Short Third Man,Run Out,,,-2,1,Dharamshala
-1,1,RCB,Virat Kohli,2,Mid Off,Run Out,,,-2,1,Dharamshala
-1,1,RCB,Virat Kohli,3,Long On,Fielding,Drop Catch,,2,1,Dharamshala
-1,1,RCB,Virat Kohli,4,Third Man,Catch,,,-2,1,Dharamshala
-1,1,RCB,Virat Kohli,5,Deep Fine Leg,Run Out,,,2,1,Dharamshala
-1,1,RCB,Virat Kohli,6,Third Man,Run Out,,,0,1,Dharamshala
-1,1,RCB,Virat Kohli,1,Deep Fine Leg,Catch,,,0,2,Dharamshala
-1,1,RCB,Virat Kohli,2,Cover,Fielding,Clean Pick,,3,2,Dharamshala
-1,1,RCB,Virat Kohli,3,Long Off,Throw,,Other,-1,2,Dharamshala
-1,1,RCB,Virat Kohli,4,Point,Catch,,,4,2,Dharamshala
-1,1,RCB,Virat Kohli,5,Square Leg,Run Out,,,1,2,Dharamshala
-1,1,RCB,Virat Kohli,6,Long On,Run Out,,,-1,2,Dharamshala
-1,1,RCB,Virat Kohli,1,Third Man,Throw,,Run Out,4,3,Dharamshala
-1,1,RCB,Virat Kohli,2,Long Off,Fielding,Drop Catch,,3,3,Dharamshala
-1,1,RCB,Virat Kohli,3,Deep Fine Leg,Run Out,,,-2,3,Dharamshala
-1,1,RCB,Virat Kohli,4,Mid Off,Throw,,Other,0,3,Dharamshala
-1,1,RCB,Virat Kohli,5,Deep Fine Leg,Run Out,,,3,3,Dharamshala
-1,1,RCB,Virat Kohli,6,Third Man,Throw,,Run Out,-1,3,Dharamshala
-1,1,RCB,Virat Kohli,1,Third Man,Catch,,,2,4,Dharamshala
-1,1,RCB,Virat Kohli,2,Mid Off,Run Out,,,4,4,Dharamshala
-1,1,RCB,Virat Kohli,3,Third Man,Throw,,Other,0,4,Dharamshala
-1,1,RCB,Virat Kohli,4,Long Off,Throw,,Run Out,-1,4,Dharamshala
-1,1,RCB,Virat Kohli,5,Square Leg,Run Out,,,2,4,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Mid Wicket,Catch,,,3,4,Dharamshala
-1,1,RCB,Virat Kohli,1,Mid Off,Fielding,Drop Catch,,1,5,Dharamshala
-1,1,RCB,Virat Kohli,2,Long Off,Catch,,,0,5,Dharamshala
-1,1,RCB,Virat Kohli,3,Short Mid Wicket,Fielding,Drop Catch,,-2,5,Dharamshala
-1,1,RCB,Virat Kohli,4,Long Off,Run Out,,,1,5,Dharamshala
-1,1,RCB,Virat Kohli,5,Third Man,Throw,,Other,0,5,Dharamshala
-1,1,RCB,Virat Kohli,6,Point,Catch,,,2,5,Dharamshala
-1,1,RCB,Virat Kohli,1,Mid Off,Catch,,,2,6,Dharamshala
-1,1,RCB,Virat Kohli,2,Point,Catch,,,0,6,Dharamshala
-1,1,RCB,Virat Kohli,3,Point,Run Out,,,2,6,Dharamshala
-1,1,RCB,Virat Kohli,4,Short Third Man,Catch,,,4,6,Dharamshala
-1,1,RCB,Virat Kohli,5,Deep Fine Leg,Run Out,,,-2,6,Dharamshala
-1,1,RCB,Virat Kohli,6,Mid Off,Run Out,,,-2,6,Dharamshala
-1,1,RCB,Virat Kohli,1,Mid Off,Run Out,,,-1,7,Dharamshala
-1,1,RCB,Virat Kohli,2,Long On,Fielding,Fumble,,1,7,Dharamshala
-1,1,RCB,Virat Kohli,3,Deep Fine Leg,Throw,,Run Out,3,7,Dharamshala
-1,1,RCB,Virat Kohli,4,Square Leg,Catch,,,-2,7,Dharamshala
-1,1,RCB,Virat Kohli,5,Square Leg,Catch,,,2,7,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Mid Wicket,Catch,,,0,7,Dharamshala
-1,1,RCB,Virat Kohli,1,Short Mid Wicket,Run Out,,,2,8,Dharamshala
-1,1,RCB,Virat Kohli,2,Cover,Catch,,,1,8,Dharamshala
-1,1,RCB,Virat Kohli,3,Cover,Catch,,,3,8,Dharamshala
-1,1,RCB,Virat Kohli,4,Third Man,Run Out,,,1,8,Dharamshala
-1,1,RCB,Virat Kohli,5,Deep Fine Leg,Catch,,,-2,8,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Third Man,Throw,,Other,-2,8,Dharamshala
-1,1,RCB,Virat Kohli,1,Short Mid Wicket,Catch,,,2,9,Dharamshala
-1,1,RCB,Virat Kohli,2,Short Third Man,Catch,,,1,9,Dharamshala
-1,1,RCB,Virat Kohli,3,Long Off,Run Out,,,1,9,Dharamshala
-1,1,RCB,Virat Kohli,4,Short Third Man,Throw,,Run Out,-2,9,Dharamshala
-1,1,RCB,Virat Kohli,5,Point,Catch,,,3,9,Dharamshala
-1,1,RCB,Virat Kohli,6,Deep Fine Leg,Run Out,,,-2,9,Dharamshala
-1,1,RCB,Virat Kohli,1,Third Man,Throw,,Run Out,4,10,Dharamshala
-1,1,RCB,Virat Kohli,2,Short Mid Wicket,Catch,,,-1,10,Dharamshala
-1,1,RCB,Virat Kohli,3,Short Mid Wicket,Catch,,,3,10,Dharamshala
-1,1,RCB,Virat Kohli,4,Point,Catch,,,2,10,Dharamshala
-1,1,RCB,Virat Kohli,5,Point,Catch,,,4,10,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Third Man,Catch,,,-2,10,Dharamshala
-1,1,RCB,Virat Kohli,1,Deep Fine Leg,Catch,,,-2,11,Dharamshala
-1,1,RCB,Virat Kohli,2,Mid Off,Throw,,Run Out,-2,11,Dharamshala
-1,1,RCB,Virat Kohli,3,Long Off,Fielding,Drop Catch,,0,11,Dharamshala
-1,1,RCB,Virat Kohli,4,Long On,Catch,,,4,11,Dharamshala
-1,1,RCB,Virat Kohli,5,Mid Off,Throw,,Run Out,1,11,Dharamshala
-1,1,RCB,Virat Kohli,6,Long On,Fielding,Fumble,,3,11,Dharamshala
-1,1,RCB,Virat Kohli,1,Short Third Man,Catch,,,0,12,Dharamshala
-1,1,RCB,Virat Kohli,2,Long Off,Run Out,,,0,12,Dharamshala
-1,1,RCB,Virat Kohli,3,Point,Catch,,,4,12,Dharamshala
-1,1,RCB,Virat Kohli,4,Square Leg,Fielding,Clean Pick,,-2,12,Dharamshala
-1,1,RCB,Virat Kohli,5,Square Leg,Throw,,Other,-1,12,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Third Man,Catch,,,3,12,Dharamshala
-1,1,RCB,Virat Kohli,1,Cover,Catch,,,-1,13,Dharamshala
-1,1,RCB,Virat Kohli,2,Short Mid Wicket,Catch,,,2,13,Dharamshala
-1,1,RCB,Virat Kohli,3,Cover,Run Out,,,0,13,Dharamshala
-1,1,RCB,Virat Kohli,4,Square Leg,Run Out,,,4,13,Dharamshala
-1,1,RCB,Virat Kohli,5,Mid Off,Catch,,,0,13,Dharamshala
-1,1,RCB,Virat Kohli,6,Short Third Man,Run Out,,,-2,13,Dharamshala
-1,1,RCB,Virat Kohli,1,Short Third Man,Throw,,Other,2,14,Dharamshala
-1,1,RCB,Virat Kohli,2,Cover,Fielding,Clean Pick,,-1,14,Dharamshala
-1,1,RCB,Virat Kohli,3,Cover,Run Out,,,3,14,Dharamshala
-1,1,RCB,Virat Kohli,4,Short Mid Wicket,Run Out,,,0,14,Dharamshala
-1,1,RCB,Virat Kohli,5,Deep Fine Leg,Fielding,Clean Pick,,-1,14,Dharamshala
-1,1,RCB,Virat Kohli,6,Cover,Fielding,Clean Pick,,3,14,Dharamshala
-1,1,RCB,Virat Kohli,1,Third Man,Throw,,Other,-2,15,Dharamshala
-1,1,RCB,Virat Kohli,2,Cover,Run Out,,,2,15,Dharamshala
-1,1,RCB,Virat Kohli,3,Third Man,Catch,,,0,15,Dharamshala
-1,1,RCB,Virat Kohli,4,Long Off,Throw,,Other,2,15,Dharamshala
-1,1,RCB,Virat Kohli,5,Short Mid Wicket,Catch,,,2,15,Dharamshala
-1,1,RCB,Virat Kohli,6,Square Leg,Run Out,,,4,15,Dharamshala
-1,1,RCB,Virat Kohli,1,Cover,Fielding,Drop Catch,,-1,16,Dharamshala
-1,1,RCB,Virat Kohli,2,Cover,Catch,,,2,16,Dharamshala
-1,1,RCB,Virat Kohli,3,Long Off,Catch,,,1,16,Dharamshala
-1,1,RCB,Virat Kohli,4,Long On,Fielding,Clean Pick,,-1,16,Dharamshala
-1,1,RCB,Virat Kohli,5,Mid Off,Run Out,,,4,16,Dharamshala
-1,1,RCB,Virat Kohli,6,Long Off,Run Out,,,-2,16,Dharamshala
-1,1,RCB,Virat Kohli,1,Cover,Throw,,Other,4,17,Dharamshala
-1,1,RCB,Virat Kohli,2,Deep Fine Leg,Run Out,,,-1,17,Dharamshala
-1,1,RCB,Virat Kohli,3,Point,Throw,,Other,2,17,Dharamshala
-1,1,RCB,Virat Kohli,4,Mid Off,Fielding,Drop Catch,,2,17,Dharamshala
-1,1,RCB,Virat Kohli,5,Cover,Throw,,Other,-1,17,Dharamshala
-1,1,RCB,Virat Kohli,6,Third Man,Throw,,Other,-2,17,Dharamshala
-1,1,RCB,Virat Kohli,1,Long Off,Throw,,Run Out,1,18,Dharamshala
-1,1,RCB,Virat Kohli,2,Mid Off,Run Out,,,1,18,Dharamshala
-1,1,RCB,Virat Kohli,3,Cover,Fielding,Clean Pick,,0,18,Dharamshala
-1,1,RCB,Virat Kohli,4,Square Leg,Throw,,Other,3,18,Dharamshala
-1,1,RCB,Virat Kohli,5,Long On,Fielding,Fumble,,-1,18,Dharamshala
-1,1,RCB,Virat Kohli,6,Deep Fine Leg,Run Out,,,4,18,Dharamshala
-1,1,RCB,Virat Kohli,1,Point,Run Out,,,-2,19,Dharamshala
-1,1,RCB,Virat Kohli,2,Third Man,Throw,,Other,3,19,Dharamshala
-1,1,RCB,Virat Kohli,3,Mid Off,Throw,,Run Out,4,19,Dharamshala
-1,1,RCB,Virat Kohli,4,Third Man,Throw,,Other,4,19,Dharamshala
-1,1,RCB,Virat Kohli,5,Mid Off,Run Out,,,-2,19,Dharamshala
-1,1,RCB,Virat Kohli,6,Cover,Catch,,,-1,19,Dharamshala
-1,1,RCB,Virat Kohli,1,Mid Off,Throw,,Other,3,20,Dharamshala
-1,1,RCB,Virat Kohli,2,Mid Off,Throw,,Other,1,20,Dharamshala
-1,1,RCB,Virat Kohli,3,Long Off,Run Out,,,-2,20,Dharamshala
-1,1,RCB,Virat Kohli,4,Square Leg,Throw,,Run Out,0,20,Dharamshala
-1,1,RCB,Virat Kohli,5,Long Off,Throw,,Run Out,0,20,Dharamshala
-1,1,RCB,Virat Kohli,6,Cover,Fielding,Fumble,,3,20,Dharamshala
-1,1,CSK,Faf du Plessis,1,Cover,Catch,,,-1,1,Dharamshala
-1,1,CSK,Faf du Plessis,2,Mid Off,Catch,,,-1,1,Dharamshala
-1,1,CSK,Faf du Plessis,3,Square Leg,Catch,,,-1,1,Dharamshala
-1,1,CSK,Faf du Plessis,4,Short Mid Wicket,Run Out,,,-1,1,Dharamshala
-1,1,CSK,Faf du Plessis,5,Short Mid Wicket,Fielding,Clean Pick,,-2,1,Dharamshala
-1,1,CSK,Faf du Plessis,6,Long Off,Throw,,Other,2,1,Dharamshala
-1,1,CSK,Faf du Plessis,1,Point,Fielding,Fumble,,4,2,Dharamshala
-1,1,CSK,Faf du Plessis,2,Square Leg,Fielding,Clean Pick,,-1,2,Dharamshala
-1,1,CSK,Faf du Plessis,3,Long On,Fielding,Clean Pick,,-2,2,Dharamshala
-1,1,CSK,Faf du Plessis,4,Short Third Man,Throw,,Other,4,2,Dharamshala
-1,1,CSK,Faf du Plessis,5,Point,Catch,,,-1,2,Dharamshala
-1,1,CSK,Faf du Plessis,6,Long On,Fielding,Drop Catch,,4,2,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long Off,Throw,,Run Out,-2,3,Dharamshala
-1,1,CSK,Faf du Plessis,2,Point,Run Out,,,2,3,Dharamshala
-1,1,CSK,Faf du Plessis,3,Long On,Throw,,Other,-1,3,Dharamshala
-1,1,CSK,Faf du Plessis,4,Short Mid Wicket,Run Out,,,3,3,Dharamshala
-1,1,CSK,Faf du Plessis,5,Mid Off,Throw,,Other,-1,3,Dharamshala
-1,1,CSK,Faf du Plessis,6,Long Off,Throw,,Run Out,3,3,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long Off,Run Out,,,-2,4,Dharamshala
-1,1,CSK,Faf du Plessis,2,Short Third Man,Run Out,,,0,4,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Third Man,Catch,,,-1,4,Dharamshala
-1,1,CSK,Faf du Plessis,4,Third Man,Run Out,,,-1,4,Dharamshala
-1,1,CSK,Faf du Plessis,5,Long Off,Run Out,,,4,4,Dharamshala
-1,1,CSK,Faf du Plessis,6,Deep Fine Leg,Fielding,Fumble,,-2,4,Dharamshala
-1,1,CSK,Faf du Plessis,1,Deep Fine Leg,Catch,,,-1,5,Dharamshala
-1,1,CSK,Faf du Plessis,2,Long On,Run Out,,,1,5,Dharamshala
-1,1,CSK,Faf du Plessis,3,Deep Fine Leg,Throw,,Other,0,5,Dharamshala
-1,1,CSK,Faf du Plessis,4,Square Leg,Throw,,Run Out,-1,5,Dharamshala
-1,1,CSK,Faf du Plessis,5,Square Leg,Throw,,Run Out,-2,5,Dharamshala
-1,1,CSK,Faf du Plessis,6,Long On,Throw,,Other,4,5,Dharamshala
-1,1,CSK,Faf du Plessis,1,Mid Off,Throw,,Run Out,4,6,Dharamshala
-1,1,CSK,Faf du Plessis,2,Long Off,Run Out,,,1,6,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Mid Wicket,Fielding,Drop Catch,,-2,6,Dharamshala
-1,1,CSK,Faf du Plessis,4,Deep Fine Leg,Catch,,,-1,6,Dharamshala
-1,1,CSK,Faf du Plessis,5,Point,Catch,,,-1,6,Dharamshala
-1,1,CSK,Faf du Plessis,6,Short Third Man,Throw,,Run Out,0,6,Dharamshala
-1,1,CSK,Faf du Plessis,1,Point,Throw,,Other,3,7,Dharamshala
-1,1,CSK,Faf du Plessis,2,Third Man,Catch,,,3,7,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Mid Wicket,Throw,,Other,3,7,Dharamshala
-1,1,CSK,Faf du Plessis,4,Third Man,Run Out,,,4,7,Dharamshala
-1,1,CSK,Faf du Plessis,5,Short Mid Wicket,Fielding,Fumble,,4,7,Dharamshala
-1,1,CSK,Faf du Plessis,6,Cover,Run Out,,,-2,7,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long On,Run Out,,,-2,8,Dharamshala
-1,1,CSK,Faf du Plessis,2,Short Mid Wicket,Throw,,Other,0,8,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Mid Wicket,Fielding,Fumble,,-1,8,Dharamshala
-1,1,CSK,Faf du Plessis,4,Deep Fine Leg,Throw,,Run Out,-2,8,Dharamshala
-1,1,CSK,Faf du Plessis,5,Mid Off,Fielding,Drop Catch,,2,8,Dharamshala
-1,1,CSK,Faf du Plessis,6,Long Off,Fielding,Drop Catch,,1,8,Dharamshala
-1,1,CSK,Faf du Plessis,1,Third Man,Fielding,Drop Catch,,-1,9,Dharamshala
-1,1,CSK,Faf du Plessis,2,Deep Fine Leg,Run Out,,,-2,9,Dharamshala
-1,1,CSK,Faf du Plessis,3,Square Leg,Run Out,,,2,9,Dharamshala
-1,1,CSK,Faf du Plessis,4,Long On,Fielding,Drop Catch,,3,9,Dharamshala
-1,1,CSK,Faf du Plessis,5,Long Off,Fielding,Fumble,,4,9,Dharamshala
-1,1,CSK,Faf du Plessis,6,Point,Throw,,Other,4,9,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long Off,Fielding,Fumble,,-2,10,Dharamshala
-1,1,CSK,Faf du Plessis,2,Short Mid Wicket,Throw,,Other,1,10,Dharamshala
-1,1,CSK,Faf du Plessis,3,Long On,Run Out,,,4,10,Dharamshala
-1,1,CSK,Faf du Plessis,4,Short Mid Wicket,Run Out,,,-2,10,Dharamshala
-1,1,CSK,Faf du Plessis,5,Square Leg,Catch,,,-1,10,Dharamshala
-1,1,CSK,Faf du Plessis,6,Deep Fine Leg,Run Out,,,0,10,Dharamshala
-1,1,CSK,Faf du Plessis,1,Third Man,Throw,,Other,3,11,Dharamshala
-1,1,CSK,Faf du Plessis,2,Long On,Run Out,,,0,11,Dharamshala
-1,1,CSK,Faf du Plessis,3,Square Leg,Run Out,,,-1,11,Dharamshala
-1,1,CSK,Faf du Plessis,4,Cover,Run Out,,,-1,11,Dharamshala
-1,1,CSK,Faf du Plessis,5,Short Mid Wicket,Run Out,,,3,11,Dharamshala
-1,1,CSK,Faf du Plessis,6,Mid Off,Throw,,Other,-1,11,Dharamshala
-1,1,CSK,Faf du Plessis,1,Cover,Catch,,,0,12,Dharamshala
-1,1,CSK,Faf du Plessis,2,Cover,Throw,,Run Out,0,12,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Third Man,Throw,,Run Out,4,12,Dharamshala
-1,1,CSK,Faf du Plessis,4,Long Off,Run Out,,,-1,12,Dharamshala
-1,1,CSK,Faf du Plessis,5,Mid Off,Fielding,Drop Catch,,-1,12,Dharamshala
-1,1,CSK,Faf du Plessis,6,Third Man,Catch,,,3,12,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long On,Run Out,,,4,13,Dharamshala
-1,1,CSK,Faf du Plessis,2,Long On,Run Out,,,3,13,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Third Man,Catch,,,1,13,Dharamshala
-1,1,CSK,Faf du Plessis,4,Third Man,Catch,,,-2,13,Dharamshala
-1,1,CSK,Faf du Plessis,5,Short Third Man,Fielding,Fumble,,4,13,Dharamshala
-1,1,CSK,Faf du Plessis,6,Third Man,Run Out,,,-1,13,Dharamshala
-1,1,CSK,Faf du Plessis,1,Point,Catch,,,-1,14,Dharamshala
-1,1,CSK,Faf du Plessis,2,Long On,Fielding,Drop Catch,,2,14,Dharamshala
-1,1,CSK,Faf du Plessis,3,Cover,Throw,,Run Out,2,14,Dharamshala
-1,1,CSK,Faf du Plessis,4,Point,Fielding,Clean Pick,,2,14,Dharamshala
-1,1,CSK,Faf du Plessis,5,Long On,Throw,,Other,0,14,Dharamshala
-1,1,CSK,Faf du Plessis,6,Square Leg,Throw,,Run Out,1,14,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long Off,Fielding,Drop Catch,,4,15,Dharamshala
-1,1,CSK,Faf du Plessis,2,Deep Fine Leg,Throw,,Other,-2,15,Dharamshala
-1,1,CSK,Faf du Plessis,3,Long On,Fielding,Clean Pick,,2,15,Dharamshala
-1,1,CSK,Faf du Plessis,4,Point,Throw,,Run Out,0,15,Dharamshala
-1,1,CSK,Faf du Plessis,5,Deep Fine Leg,Run Out,,,2,15,Dharamshala
-1,1,CSK,Faf du Plessis,6,Cover,Fielding,Fumble,,2,15,Dharamshala
-1,1,CSK,Faf du Plessis,1,Third Man,Run Out,,,1,16,Dharamshala
-1,1,CSK,Faf du Plessis,2,Short Mid Wicket,Fielding,Clean Pick,,4,16,Dharamshala
-1,1,CSK,Faf du Plessis,3,Cover,Throw,,Other,3,16,Dharamshala
-1,1,CSK,Faf du Plessis,4,Long Off,Throw,,Other,0,16,Dharamshala
-1,1,CSK,Faf du Plessis,5,Point,Run Out,,,2,16,Dharamshala
-1,1,CSK,Faf du Plessis,6,Mid Off,Fielding,Drop Catch,,0,16,Dharamshala
-1,1,CSK,Faf du Plessis,1,Long On,Fielding,Fumble,,-1,17,Dharamshala
-1,1,CSK,Faf du Plessis,2,Point,Catch,,,2,17,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Mid Wicket,Run Out,,,-1,17,Dharamshala
-1,1,CSK,Faf du Plessis,4,Cover,Throw,,Run Out,4,17,Dharamshala
-1,1,CSK,Faf du Plessis,5,Mid Off,Catch,,,3,17,Dharamshala
-1,1,CSK,Faf du Plessis,6,Short Mid Wicket,Catch,,,3,17,Dharamshala
-1,1,CSK,Faf du Plessis,1,Third Man,Run Out,,,-1,18,Dharamshala
-1,1,CSK,Faf du Plessis,2,Point,Throw,,Run Out,-2,18,Dharamshala
-1,1,CSK,Faf du Plessis,3,Deep Fine Leg,Fielding,Fumble,,-1,18,Dharamshala
-1,1,CSK,Faf du Plessis,4,Long Off,Fielding,Clean Pick,,-2,18,Dharamshala
-1,1,CSK,Faf du Plessis,5,Square Leg,Catch,,,4,18,Dharamshala
-1,1,CSK,Faf du Plessis,6,Point,Fielding,Clean Pick,,0,18,Dharamshala
-1,1,CSK,Faf du Plessis,1,Third Man,Run Out,,,-1,19,Dharamshala
-1,1,CSK,Faf du Plessis,2,Short Third Man,Catch,,,-1,19,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Mid Wicket,Catch,,,4,19,Dharamshala
-1,1,CSK,Faf du Plessis,4,Square Leg,Run Out,,,2,19,Dharamshala
-1,1,CSK,Faf du Plessis,5,Long On,Run Out,,,4,19,Dharamshala
-1,1,CSK,Faf du Plessis,6,Short Third Man,Fielding,Drop Catch,,4,19,Dharamshala
-1,1,CSK,Faf du Plessis,1,Square Leg,Run Out,,,1,20,Dharamshala
-1,1,CSK,Faf du Plessis,2,Point,Throw,,Other,1,20,Dharamshala
-1,1,CSK,Faf du Plessis,3,Short Third Man,Fielding,Fumble,,-1,20,Dharamshala
-1,1,CSK,Faf du Plessis,4,Cover,Fielding,Fumble,,2,20,Dharamshala
-1,1,CSK,Faf du Plessis,5,Long Off,Catch,,,1,20,Dharamshala
-1,1,CSK,Faf du Plessis,6,Cover,Throw,,Other,-2,20,Dharamshala
+Innings,Team,Player Name,Ballcount,Position,Short Description,Pick,Throw,Runs,Overcount,Venue
+1,CSK,Maheesh Theekshana,1,Point,Fielding,Fumble,,-2,1,Dharamshala
+1,CSK,MS Dhoni (WK),2,Square Leg,Throw,,Run Out,-2,1,Dharamshala
+1,CSK,Ajinkya Rahane,3,Third Man,Throw,,Run Out,1,1,Dharamshala
+1,CSK,Daryl Mitchell,4,Point,Catch,,,-1,1,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),5,Long On,Catch,,,2,1,Dharamshala
+1,CSK,Deepak Chahar,6,Square Leg,Catch,,,3,1,Dharamshala
+1,CSK,Rachin Ravindra,1,Point,Fielding,Fumble,,-1,2,Dharamshala
+1,CSK,Mustafizur Rahman,2,Third Man,Fielding,Drop Catch,,4,2,Dharamshala
+1,CSK,MS Dhoni (WK),3,Third Man,Run Out,,,-1,2,Dharamshala
+1,CSK,Ravindra Jadeja,4,Long On,Fielding,Clean Pick,,4,2,Dharamshala
+1,CSK,Daryl Mitchell,5,Mid Off,Run Out,,,-1,2,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),6,Long On,Run Out,,,-1,2,Dharamshala
+1,CSK,Sameer Rizvi,1,Mid Off,Run Out,,,4,3,Dharamshala
+1,CSK,Deepak Chahar,2,Third Man,Catch,,,-2,3,Dharamshala
+1,CSK,Sameer Rizvi,3,Point,Throw,,Other,0,3,Dharamshala
+1,CSK,MS Dhoni (WK),4,Short Mid Wicket,Catch,,,4,3,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),5,Short Third Man,Catch,,,-1,3,Dharamshala
+1,CSK,Mustafizur Rahman,6,Short Third Man,Catch,,,4,3,Dharamshala
+1,CSK,MS Dhoni (WK),1,Cover,Catch,,,1,4,Dharamshala
+1,CSK,Tushar Deshpande,2,Long On,Catch,,,4,4,Dharamshala
+1,CSK,Rachin Ravindra,3,Deep Fine Leg,Fielding,Fumble,,1,4,Dharamshala
+1,CSK,Ravindra Jadeja,4,Square Leg,Run Out,,,0,4,Dharamshala
+1,CSK,Tushar Deshpande,5,Short Third Man,Catch,,,3,4,Dharamshala
+1,CSK,Maheesh Theekshana,6,Short Mid Wicket,Run Out,,,-1,4,Dharamshala
+1,CSK,Mustafizur Rahman,1,Mid Off,Fielding,Drop Catch,,3,5,Dharamshala
+1,CSK,Daryl Mitchell,2,Third Man,Run Out,,,3,5,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),3,Short Mid Wicket,Fielding,Fumble,,4,5,Dharamshala
+1,CSK,MS Dhoni (WK),4,Short Third Man,Run Out,,,2,5,Dharamshala
+1,CSK,Ravindra Jadeja,5,Long On,Fielding,Fumble,,-1,5,Dharamshala
+1,CSK,Rachin Ravindra,6,Short Mid Wicket,Fielding,Drop Catch,,-2,5,Dharamshala
+1,CSK,Ravindra Jadeja,1,Square Leg,Catch,,,-2,6,Dharamshala
+1,CSK,Mustafizur Rahman,2,Short Mid Wicket,Throw,,Other,4,6,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),3,Short Third Man,Throw,,Other,-2,6,Dharamshala
+1,CSK,Ajinkya Rahane,4,Short Mid Wicket,Catch,,,3,6,Dharamshala
+1,CSK,MS Dhoni (WK),5,Deep Fine Leg,Catch,,,3,6,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),6,Square Leg,Catch,,,2,6,Dharamshala
+1,CSK,MS Dhoni (WK),1,Short Third Man,Run Out,,,2,7,Dharamshala
+1,CSK,Rachin Ravindra,2,Short Mid Wicket,Run Out,,,3,7,Dharamshala
+1,CSK,Tushar Deshpande,3,Long Off,Throw,,Run Out,4,7,Dharamshala
+1,CSK,MS Dhoni (WK),4,Point,Catch,,,-2,7,Dharamshala
+1,CSK,Daryl Mitchell,5,Point,Run Out,,,-1,7,Dharamshala
+1,CSK,Maheesh Theekshana,6,Long Off,Fielding,Fumble,,2,7,Dharamshala
+1,CSK,Daryl Mitchell,1,Short Third Man,Throw,,Other,-2,8,Dharamshala
+1,CSK,Deepak Chahar,2,Mid Off,Fielding,Fumble,,0,8,Dharamshala
+1,CSK,Rachin Ravindra,3,Long On,Run Out,,,-1,8,Dharamshala
+1,CSK,Rachin Ravindra,4,Long Off,Run Out,,,-1,8,Dharamshala
+1,CSK,Maheesh Theekshana,5,Long On,Fielding,Fumble,,0,8,Dharamshala
+1,CSK,Tushar Deshpande,6,Deep Fine Leg,Fielding,Fumble,,4,8,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),1,Deep Fine Leg,Run Out,,,1,9,Dharamshala
+1,CSK,Mustafizur Rahman,2,Long On,Catch,,,0,9,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),3,Long On,Fielding,Drop Catch,,0,9,Dharamshala
+1,CSK,Mustafizur Rahman,4,Short Mid Wicket,Throw,,Other,0,9,Dharamshala
+1,CSK,Maheesh Theekshana,5,Point,Throw,,Other,-1,9,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),6,Point,Run Out,,,4,9,Dharamshala
+1,CSK,Rachin Ravindra,1,Square Leg,Throw,,Other,1,10,Dharamshala
+1,CSK,Tushar Deshpande,2,Long Off,Catch,,,4,10,Dharamshala
+1,CSK,Mustafizur Rahman,3,Cover,Fielding,Fumble,,1,10,Dharamshala
+1,CSK,Deepak Chahar,4,Third Man,Catch,,,-2,10,Dharamshala
+1,CSK,Daryl Mitchell,5,Third Man,Throw,,Other,-1,10,Dharamshala
+1,CSK,Maheesh Theekshana,6,Deep Fine Leg,Run Out,,,4,10,Dharamshala
+1,CSK,MS Dhoni (WK),1,Short Mid Wicket,Fielding,Clean Pick,,4,11,Dharamshala
+1,CSK,Maheesh Theekshana,2,Long Off,Throw,,Other,3,11,Dharamshala
+1,CSK,MS Dhoni (WK),3,Deep Fine Leg,Run Out,,,2,11,Dharamshala
+1,CSK,Ajinkya Rahane,4,Long Off,Catch,,,3,11,Dharamshala
+1,CSK,MS Dhoni (WK),5,Square Leg,Fielding,Fumble,,0,11,Dharamshala
+1,CSK,Deepak Chahar,6,Mid Off,Catch,,,4,11,Dharamshala
+1,CSK,Ravindra Jadeja,1,Point,Throw,,Run Out,3,12,Dharamshala
+1,CSK,Mustafizur Rahman,2,Long On,Fielding,Fumble,,4,12,Dharamshala
+1,CSK,Maheesh Theekshana,3,Third Man,Throw,,Other,1,12,Dharamshala
+1,CSK,Mustafizur Rahman,4,Long On,Run Out,,,-1,12,Dharamshala
+1,CSK,Sameer Rizvi,5,Cover,Fielding,Fumble,,2,12,Dharamshala
+1,CSK,MS Dhoni (WK),6,Short Mid Wicket,Throw,,Other,3,12,Dharamshala
+1,CSK,Mustafizur Rahman,1,Long Off,Throw,,Run Out,1,13,Dharamshala
+1,CSK,Deepak Chahar,2,Short Third Man,Throw,,Other,1,13,Dharamshala
+1,CSK,MS Dhoni (WK),3,Third Man,Run Out,,,4,13,Dharamshala
+1,CSK,Rachin Ravindra,4,Mid Off,Fielding,Drop Catch,,3,13,Dharamshala
+1,CSK,Sameer Rizvi,5,Point,Throw,,Other,2,13,Dharamshala
+1,CSK,Ravindra Jadeja,6,Short Third Man,Run Out,,,-1,13,Dharamshala
+1,CSK,Daryl Mitchell,1,Short Mid Wicket,Throw,,Run Out,2,14,Dharamshala
+1,CSK,Sameer Rizvi,2,Short Mid Wicket,Fielding,Clean Pick,,2,14,Dharamshala
+1,CSK,MS Dhoni (WK),3,Short Third Man,Run Out,,,0,14,Dharamshala
+1,CSK,Ajinkya Rahane,4,Mid Off,Fielding,Drop Catch,,3,14,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),5,Third Man,Fielding,Fumble,,-1,14,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),6,Mid Off,Catch,,,3,14,Dharamshala
+1,CSK,Rachin Ravindra,1,Point,Fielding,Drop Catch,,2,15,Dharamshala
+1,CSK,Ravindra Jadeja,2,Mid Off,Run Out,,,0,15,Dharamshala
+1,CSK,Sameer Rizvi,3,Third Man,Throw,,Other,-1,15,Dharamshala
+1,CSK,Rachin Ravindra,4,Mid Off,Throw,,Run Out,2,15,Dharamshala
+1,CSK,Sameer Rizvi,5,Cover,Fielding,Fumble,,1,15,Dharamshala
+1,CSK,Rachin Ravindra,6,Long Off,Fielding,Fumble,,1,15,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),1,Point,Throw,,Run Out,-1,16,Dharamshala
+1,CSK,MS Dhoni (WK),2,Cover,Throw,,Other,3,16,Dharamshala
+1,CSK,Ruturaj Gaikwad (C),3,Long On,Fielding,Drop Catch,,4,16,Dharamshala
+1,CSK,Deepak Chahar,4,Long On,Run Out,,,4,16,Dharamshala
+1,CSK,Daryl Mitchell,5,Long On,Run Out,,,3,16,Dharamshala
+1,CSK,Maheesh Theekshana,6,Cover,Run Out,,,4,16,Dharamshala
+1,CSK,Ravindra Jadeja,1,Long On,Run Out,,,2,17,Dharamshala
+1,CSK,Deepak Chahar,2,Third Man,Catch,,,4,17,Dharamshala
+1,CSK,Ajinkya Rahane,3,Short Mid Wicket,Fielding,Fumble,,-2,17,Dharamshala
+1,CSK,Ravindra Jadeja,4,Short Mid Wicket,Throw,,Other,4,17,Dharamshala
+1,CSK,MS Dhoni (WK),5,Point,Run Out,,,2,17,Dharamshala
+1,CSK,Deepak Chahar,6,Point,Fielding,Clean Pick,,4,17,Dharamshala
+1,CSK,Rachin Ravindra,1,Long Off,Run Out,,,1,18,Dharamshala
+1,CSK,Daryl Mitchell,2,Point,Run Out,,,-2,18,Dharamshala
+1,CSK,Mustafizur Rahman,3,Point,Throw,,Other,2,18,Dharamshala
+1,CSK,Rachin Ravindra,4,Long On,Throw,,Run Out,2,18,Dharamshala
+1,CSK,Maheesh Theekshana,5,Cover,Fielding,Drop Catch,,1,18,Dharamshala
+1,CSK,Deepak Chahar,6,Short Third Man,Run Out,,,1,18,Dharamshala
+1,CSK,Sameer Rizvi,1,Point,Catch,,,2,19,Dharamshala
+1,CSK,Mustafizur Rahman,2,Short Third Man,Catch,,,2,19,Dharamshala
+1,CSK,Ravindra Jadeja,3,Point,Catch,,,1,19,Dharamshala
+1,CSK,Ravindra Jadeja,4,Short Third Man,Run Out,,,-2,19,Dharamshala
+1,CSK,Maheesh Theekshana,5,Long On,Catch,,,-1,19,Dharamshala
+1,CSK,MS Dhoni (WK),6,Point,Catch,,,3,19,Dharamshala
+1,CSK,Tushar Deshpande,1,Long Off,Catch,,,4,20,Dharamshala
+1,CSK,MS Dhoni (WK),2,Long Off,Run Out,,,0,20,Dharamshala
+1,CSK,Rachin Ravindra,3,Long On,Run Out,,,-2,20,Dharamshala
+1,CSK,Rachin Ravindra,4,Point,Run Out,,,-2,20,Dharamshala
+1,CSK,Daryl Mitchell,5,Square Leg,Fielding,Fumble,,2,20,Dharamshala
+1,CSK,Ravindra Jadeja,6,Mid Off,Fielding,Drop Catch,,3,20,Dharamshala
+2,RCB,Virat Kohli,1,Third Man,Fielding,Fumble,,4,1,Dharamshala
+2,RCB,Karn Sharma,2,Long On,Fielding,Fumble,,3,1,Dharamshala
+2,RCB,Dinesh Karthik,3,Short Third Man,Throw,,Run Out,4,1,Dharamshala
+2,RCB,Mohammed Siraj,4,Cover,Throw,,Run Out,-2,1,Dharamshala
+2,RCB,Virat Kohli,5,Long On,Catch,,,0,1,Dharamshala
+2,RCB,Cameron Green,6,Short Mid Wicket,Throw,,Other,0,1,Dharamshala
+2,RCB,Dinesh Karthik,1,Cover,Throw,,Other,0,2,Dharamshala
+2,RCB,Virat Kohli,2,Long On,Throw,,Run Out,4,2,Dharamshala
+2,RCB,Virat Kohli,3,Short Mid Wicket,Throw,,Other,-2,2,Dharamshala
+2,RCB,Alzarri Josheph,4,Long Off,Throw,,Run Out,-2,2,Dharamshala
+2,RCB,Mayank Dagar,5,Point,Run Out,,,-1,2,Dharamshala
+2,RCB,Faf du Plessis(C),6,Short Third Man,Throw,,Run Out,-1,2,Dharamshala
+2,RCB,Dinesh Karthik,1,Square Leg,Fielding,Fumble,,3,3,Dharamshala
+2,RCB,Dinesh Karthik,2,Point,Throw,,Other,-1,3,Dharamshala
+2,RCB,Cameron Green,3,Deep Fine Leg,Run Out,,,1,3,Dharamshala
+2,RCB,Karn Sharma,4,Mid Off,Run Out,,,-2,3,Dharamshala
+2,RCB,Virat Kohli,5,Square Leg,Run Out,,,2,3,Dharamshala
+2,RCB,Mayank Dagar,6,Cover,Run Out,,,-1,3,Dharamshala
+2,RCB,Mohammed Siraj,1,Short Third Man,Run Out,,,1,4,Dharamshala
+2,RCB,Glenn Maxwell,2,Long On,Fielding,Fumble,,1,4,Dharamshala
+2,RCB,Dinesh Karthik,3,Long Off,Run Out,,,0,4,Dharamshala
+2,RCB,Dinesh Karthik,4,Mid Off,Throw,,Run Out,1,4,Dharamshala
+2,RCB,Glenn Maxwell,5,Short Mid Wicket,Fielding,Fumble,,4,4,Dharamshala
+2,RCB,Cameron Green,6,Long On,Fielding,Drop Catch,,2,4,Dharamshala
+2,RCB,Rajat Patidar,1,Deep Fine Leg,Throw,,Other,0,5,Dharamshala
+2,RCB,Mayank Dagar,2,Square Leg,Fielding,Fumble,,-2,5,Dharamshala
+2,RCB,Cameron Green,3,Mid Off,Catch,,,0,5,Dharamshala
+2,RCB,Mayank Dagar,4,Deep Fine Leg,Fielding,Clean Pick,,3,5,Dharamshala
+2,RCB,Mohammed Siraj,5,Cover,Fielding,Drop Catch,,3,5,Dharamshala
+2,RCB,Mohammed Siraj,6,Short Third Man,Throw,,Run Out,4,5,Dharamshala
+2,RCB,Mohammed Siraj,1,Deep Fine Leg,Catch,,,1,6,Dharamshala
+2,RCB,Anuj Rawat(WK),2,Third Man,Catch,,,3,6,Dharamshala
+2,RCB,Anuj Rawat(WK),3,Long Off,Throw,,Other,1,6,Dharamshala
+2,RCB,Mayank Dagar,4,Point,Run Out,,,0,6,Dharamshala
+2,RCB,Karn Sharma,5,Short Third Man,Catch,,,-1,6,Dharamshala
+2,RCB,Dinesh Karthik,6,Cover,Run Out,,,-2,6,Dharamshala
+2,RCB,Glenn Maxwell,1,Cover,Run Out,,,1,7,Dharamshala
+2,RCB,Faf du Plessis(C),2,Short Mid Wicket,Throw,,Other,4,7,Dharamshala
+2,RCB,Mohammed Siraj,3,Long On,Fielding,Fumble,,3,7,Dharamshala
+2,RCB,Alzarri Josheph,4,Short Third Man,Throw,,Run Out,4,7,Dharamshala
+2,RCB,Cameron Green,5,Short Mid Wicket,Catch,,,0,7,Dharamshala
+2,RCB,Faf du Plessis(C),6,Long On,Catch,,,2,7,Dharamshala
+2,RCB,Alzarri Josheph,1,Third Man,Run Out,,,1,8,Dharamshala
+2,RCB,Dinesh Karthik,2,Mid Off,Throw,,Other,-2,8,Dharamshala
+2,RCB,Rajat Patidar,3,Short Third Man,Throw,,Other,3,8,Dharamshala
+2,RCB,Dinesh Karthik,4,Short Mid Wicket,Run Out,,,3,8,Dharamshala
+2,RCB,Virat Kohli,5,Third Man,Throw,,Run Out,-1,8,Dharamshala
+2,RCB,Virat Kohli,6,Long On,Fielding,Drop Catch,,-2,8,Dharamshala
+2,RCB,Cameron Green,1,Long On,Run Out,,,4,9,Dharamshala
+2,RCB,Mayank Dagar,2,Long On,Run Out,,,0,9,Dharamshala
+2,RCB,Karn Sharma,3,Short Third Man,Catch,,,-2,9,Dharamshala
+2,RCB,Faf du Plessis(C),4,Short Third Man,Fielding,Clean Pick,,4,9,Dharamshala
+2,RCB,Karn Sharma,5,Third Man,Catch,,,4,9,Dharamshala
+2,RCB,Anuj Rawat(WK),6,Square Leg,Catch,,,-2,9,Dharamshala
+2,RCB,Virat Kohli,1,Square Leg,Run Out,,,-2,10,Dharamshala
+2,RCB,Mayank Dagar,2,Mid Off,Fielding,Clean Pick,,-2,10,Dharamshala
+2,RCB,Virat Kohli,3,Third Man,Throw,,Other,0,10,Dharamshala
+2,RCB,Glenn Maxwell,4,Long On,Fielding,Fumble,,-2,10,Dharamshala
+2,RCB,Alzarri Josheph,5,Cover,Run Out,,,4,10,Dharamshala
+2,RCB,Faf du Plessis(C),6,Point,Throw,,Other,-1,10,Dharamshala
+2,RCB,Cameron Green,1,Long On,Throw,,Other,-2,11,Dharamshala
+2,RCB,Alzarri Josheph,2,Short Mid Wicket,Fielding,Clean Pick,,-2,11,Dharamshala
+2,RCB,Mohammed Siraj,3,Square Leg,Throw,,Other,-1,11,Dharamshala
+2,RCB,Virat Kohli,4,Third Man,Throw,,Other,4,11,Dharamshala
+2,RCB,Glenn Maxwell,5,Cover,Throw,,Other,-2,11,Dharamshala
+2,RCB,Alzarri Josheph,6,Deep Fine Leg,Throw,,Other,4,11,Dharamshala
+2,RCB,Glenn Maxwell,1,Long On,Catch,,,2,12,Dharamshala
+2,RCB,Anuj Rawat(WK),2,Cover,Throw,,Other,2,12,Dharamshala
+2,RCB,Faf du Plessis(C),3,Long Off,Catch,,,3,12,Dharamshala
+2,RCB,Mohammed Siraj,4,Short Mid Wicket,Catch,,,4,12,Dharamshala
+2,RCB,Mohammed Siraj,5,Mid Off,Fielding,Clean Pick,,0,12,Dharamshala
+2,RCB,Dinesh Karthik,6,Mid Off,Fielding,Drop Catch,,1,12,Dharamshala
+2,RCB,Anuj Rawat(WK),1,Short Third Man,Catch,,,1,13,Dharamshala
+2,RCB,Mayank Dagar,2,Long On,Catch,,,2,13,Dharamshala
+2,RCB,Alzarri Josheph,3,Cover,Fielding,Clean Pick,,4,13,Dharamshala
+2,RCB,Virat Kohli,4,Deep Fine Leg,Catch,,,4,13,Dharamshala
+2,RCB,Alzarri Josheph,5,Third Man,Run Out,,,2,13,Dharamshala
+2,RCB,Karn Sharma,6,Deep Fine Leg,Catch,,,3,13,Dharamshala
+2,RCB,Virat Kohli,1,Point,Fielding,Clean Pick,,4,14,Dharamshala
+2,RCB,Anuj Rawat(WK),2,Point,Fielding,Drop Catch,,0,14,Dharamshala
+2,RCB,Alzarri Josheph,3,Square Leg,Fielding,Drop Catch,,1,14,Dharamshala
+2,RCB,Alzarri Josheph,4,Long Off,Catch,,,0,14,Dharamshala
+2,RCB,Alzarri Josheph,5,Long Off,Catch,,,-1,14,Dharamshala
+2,RCB,Rajat Patidar,6,Short Mid Wicket,Catch,,,-1,14,Dharamshala
+2,RCB,Mohammed Siraj,1,Long On,Fielding,Drop Catch,,-2,15,Dharamshala
+2,RCB,Alzarri Josheph,2,Cover,Throw,,Run Out,0,15,Dharamshala
+2,RCB,Mayank Dagar,3,Cover,Catch,,,2,15,Dharamshala
+2,RCB,Virat Kohli,4,Long On,Throw,,Other,1,15,Dharamshala
+2,RCB,Mohammed Siraj,5,Short Third Man,Catch,,,-1,15,Dharamshala
+2,RCB,Cameron Green,6,Long On,Throw,,Other,0,15,Dharamshala
+2,RCB,Karn Sharma,1,Cover,Throw,,Other,0,16,Dharamshala
+2,RCB,Anuj Rawat(WK),2,Cover,Fielding,Drop Catch,,-2,16,Dharamshala
+2,RCB,Anuj Rawat(WK),3,Short Third Man,Fielding,Fumble,,4,16,Dharamshala
+2,RCB,Virat Kohli,4,Point,Run Out,,,-2,16,Dharamshala
+2,RCB,Virat Kohli,5,Cover,Throw,,Other,4,16,Dharamshala
+2,RCB,Mohammed Siraj,6,Third Man,Throw,,Run Out,-2,16,Dharamshala
+2,RCB,Anuj Rawat(WK),1,Short Mid Wicket,Throw,,Run Out,4,17,Dharamshala
+2,RCB,Karn Sharma,2,Short Third Man,Run Out,,,-1,17,Dharamshala
+2,RCB,Cameron Green,3,Long On,Fielding,Clean Pick,,4,17,Dharamshala
+2,RCB,Karn Sharma,4,Mid Off,Run Out,,,3,17,Dharamshala
+2,RCB,Karn Sharma,5,Square Leg,Catch,,,1,17,Dharamshala
+2,RCB,Dinesh Karthik,6,Short Mid Wicket,Run Out,,,3,17,Dharamshala
+2,RCB,Rajat Patidar,1,Square Leg,Throw,,Other,2,18,Dharamshala
+2,RCB,Mohammed Siraj,2,Deep Fine Leg,Throw,,Other,-1,18,Dharamshala
+2,RCB,Faf du Plessis(C),3,Third Man,Fielding,Drop Catch,,3,18,Dharamshala
+2,RCB,Mayank Dagar,4,Short Mid Wicket,Catch,,,1,18,Dharamshala
+2,RCB,Alzarri Josheph,5,Short Third Man,Throw,,Other,-2,18,Dharamshala
+2,RCB,Cameron Green,6,Square Leg,Fielding,Fumble,,-1,18,Dharamshala
+2,RCB,Mohammed Siraj,1,Point,Catch,,,3,19,Dharamshala
+2,RCB,Cameron Green,2,Mid Off,Fielding,Clean Pick,,4,19,Dharamshala
+2,RCB,Mohammed Siraj,3,Long Off,Throw,,Other,1,19,Dharamshala
+2,RCB,Karn Sharma,4,Third Man,Catch,,,-2,19,Dharamshala
+2,RCB,Faf du Plessis(C),5,Third Man,Catch,,,2,19,Dharamshala
+2,RCB,Anuj Rawat(WK),6,Mid Off,Catch,,,2,19,Dharamshala
+2,RCB,Cameron Green,1,Mid Off,Catch,,,4,20,Dharamshala
+2,RCB,Karn Sharma,2,Point,Fielding,Clean Pick,,-2,20,Dharamshala
+2,RCB,Mohammed Siraj,3,Square Leg,Run Out,,,-2,20,Dharamshala
+2,RCB,Mohammed Siraj,4,Point,Fielding,Clean Pick,,1,20,Dharamshala
+2,RCB,Faf du Plessis(C),5,Mid Off,Throw,,Run Out,2,20,Dharamshala
+2,RCB,Mayank Dagar,6,Short Third Man,Run Out,,,4,20,Dharamshala
